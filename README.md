@@ -1,4 +1,4 @@
-# Chem Honours - Geiger Program
+Chem Honours - Geiger Program
 Port for TI-84 Plus CE Calculators
 ====================
 
