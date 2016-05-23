@@ -10,17 +10,6 @@ Port for TI-84 Plus CE Calculators
 
 [Screenshot Gallery](http://imgur.com/a/AiISB)
 
-##Programs
-* GAUSSIAN  - Uses gaussian elimination to simplify matrices
-* MATRXINV  - Takes a augmented matrix and uses row operations to solve for the inverse matrix
-
-##How to use this program
-1. Make and store a matrix for your equations.
-2. Press the `prgm` button, and select the program you want.
-3. Select the matrix which you would like to simplify and press enter.
-
-After running the program, the simplified matrix will be stored under matrix [J].
-
 ##How to get this program
 ###Transfer
 [Contact me](http://jonathandamico.me/contact) and I will transfer this program to your calculator using a link cable.
