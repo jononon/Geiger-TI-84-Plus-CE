@@ -10,11 +10,11 @@ Port for TI-84 Plus CE Calculators
 
 [Screenshot Gallery](http://imgur.com/a/AiISB)
 
-##How to get this program
-###Transfer
+## How to get this program
+### Transfer
 [Contact me](http://jonathandamico.me/contact) and I will transfer this program to your calculator using a link cable.
 
-###Download
+### Download
 To download the program directly to your calculator, follow the following steps.
 
 * Download and Install the [TI Connect™ CE Software](https://education.ti.com/en/us/products/computer_software/connectivity-software/ti-connect-ce-software/tabs/overview)
